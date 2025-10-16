@@ -27,14 +27,14 @@ The **Smart Calculator Web Application** is a full-stack project developed using
 3. Keep the calcapi.php and database.php in the folder and place them in the php environment. Modify the mysql databases and connect it with php.
 4. Run the App.js file with npm run dev.
 5. To use your voice for the calculation :
-   Enable the feature by clicking on the microphone icon, and
-   use the commands :
+   Enable the feature by clicking on the microphone icon, and <br>
+   use the commands : <br>
    Say : numbers <br>
    Say : "plus" for + sign , "minus" for - sign, "into" for "*", "divide" for "/" <br>
    Say : "remove" for clear <br>
    Say : "remove all" for all clear <br>
    Say : "result" to store the result of the calculation <br>
-6. For typing purposes in pc : click on the black box on the top. For multiplication use 'x' letter.<br>
+6. For typing purposes in pc click on the black box on the top. For multiplication use 'x' letter.<br>
    
    
 
