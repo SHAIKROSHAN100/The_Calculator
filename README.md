@@ -1,4 +1,4 @@
-**Smart Calculator Web Application**
+**The Smart Calculator Web Application**
 
 The **Smart Calculator Web Application** is a full-stack project developed using **React.js, PHP, and MySQL**. The application allows users to perform basic arithmetic operations and maintains a history of previous calculations. The frontend, built with React, provides **a dynamic and responsive interface with the feature of voice based calculation,** while the backend (PHP) handles computation logic and database interactions through RESTful APIs. Data such as user calculations and results are securely stored in a **MySQL database** for future reference. This project enhanced my understanding of **React state management, API integration,** and **database connectivity**, while showcasing my ability to design and deploy **interactive, data-driven web applications**.
 
