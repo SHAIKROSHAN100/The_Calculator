@@ -29,12 +29,12 @@ The **Smart Calculator Web Application** is a full-stack project developed using
 5. To use your voice for the calculation :
    Enable the feature by clicking on the microphone icon, and
    use the commands :
-   Say : numbers
-   Say : "plus" for + sign , "minus" for - sign, "into" for "*", "divide" for "/"
-   Say : "remove" for clear
-   Say : "remove all" for all clear
-   Say : "result" to store the result of the calculation
-6. For typing purposes in pc : click on the black box on the top. For multiplication use 'x' letter.
+   Say : numbers <br>
+   Say : "plus" for + sign , "minus" for - sign, "into" for "*", "divide" for "/" <br>
+   Say : "remove" for clear <br>
+   Say : "remove all" for all clear <br>
+   Say : "result" to store the result of the calculation <br>
+6. For typing purposes in pc : click on the black box on the top. For multiplication use 'x' letter.<br>
    
    
 
