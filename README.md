@@ -23,7 +23,13 @@ Outcome/Impact:
 2. Strengthened **API integration** and **database connectivity** skills.
 3. Improved application security and performance through **optimized PHP queries.**
 
-<img width="1361" height="734" alt="Screenshot from 2025-10-15 14-22-26" src="https://github.com/user-attachments/assets/672f85b9-f621-4f23-be04-7b3efadad804" />
-<img width="1361" height="734" alt="Screenshot from 2025-10-15 14-22-11" src="https://github.com/user-attachments/assets/974d3e2d-80fc-4744-a005-def7156f0634" />
-<img width="1361" height="734" alt="Screenshot from 2025-10-15 14-21-52" src="https://github.com/user-attachments/assets/e13ccc78-13c3-4364-bd7f-1f7a7ad417df" />
 <img width="1361" height="734" alt="Screenshot from 2025-10-15 14-21-23" src="https://github.com/user-attachments/assets/92ac1c70-d606-4aa8-b54c-2a1e434d1075" />
+
+<img width="1361" height="734" alt="Screenshot from 2025-10-15 14-21-52" src="https://github.com/user-attachments/assets/e13ccc78-13c3-4364-bd7f-1f7a7ad417df" />
+
+<img width="1361" height="734" alt="Screenshot from 2025-10-15 14-22-11" src="https://github.com/user-attachments/assets/974d3e2d-80fc-4744-a005-def7156f0634" />
+
+<img width="1361" height="734" alt="Screenshot from 2025-10-15 14-22-26" src="https://github.com/user-attachments/assets/672f85b9-f621-4f23-be04-7b3efadad804" />
+
+
+
