@@ -1,0 +1,99 @@
+.button-container{
+    
+    
+    background-color: rgba(0,0,0,1);
+    display: flex;
+    justify-content: center;
+    
+    border-radius: 5px;
+}
+.digit-container{
+    padding-bottom: 20px;
+}
+button{
+
+    border-color: dodgerblue;
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    font-size: 32px;
+    font-weight: bolder;
+    background-color: rgba(0,0,0,1);
+    color: black;
+    background-image : linear-gradient(180deg, black, dodgerblue,  black);  
+    
+}
+.effect:focus{
+    outline: 1px solid dodgerblue;
+    outline-offset: 1px;
+}
+
+.digit-container div button{
+
+    
+    position: relative;
+    margin-left: 10px;
+    margin-top: 10px;
+    border-top-left-radius: 120px;
+    border-top-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 120px;
+    overflow: hidden;
+    
+}
+.effectStyle{
+    box-shadow: inset -3px 0px 2px dodgerblue;
+}
+
+
+
+
+/*......................................  OPERATOR CLASS STYLE .........................*/
+.button-container .digit-container .operator{
+    
+    
+    border-color: dodgerblue;
+    
+    background-color: aqua;
+    color: white;
+    border-radius: 50%;
+
+}
+
+.button-container .digit-container .right{
+    float: right;
+}
+
+
+
+.clearButton{
+
+    margin-bottom: 10px;
+}
+
+
+
+.button-container .digit-container .equalto{
+    
+
+    border-color: dodgerblue;
+    
+    width: 70px;
+    height: 70px;
+    font-size: 32px;
+    font-weight: bolder;
+    color: white;
+    border-radius: 5px;
+    
+}
+
+
+.digit-container .firstdigit{
+    position:relative;
+}
+
+
+
+.clear-container{
+    background-color: rgba(0,0,0,1);
+}

@@ -1,0 +1,171 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgba(245,255,245,1); 
+}
+
+.micro{
+    margin-left: 5px;
+    font-size: 18px;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 8px;
+    width: 40px;
+    height: 40px;
+    border-radius : 50%;
+    cursor: pointer;
+    text-align: center;
+    box-shadow: 0px 0px 34px white, 0px 0px 5px black;
+}
+
+.icon-container .history{
+    float : right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    font-weight: bold;
+    width: 40px;
+    height: 40px;
+    margin-right: 20px;
+    padding: 5px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 20px white, 0px 0px 5px black;
+    cursor : pointer;
+    
+    
+}
+
+
+.calc-container{
+
+    border: 2px solid white;
+    border-radius: 5px;
+    background-color: rgba(0,0,0,0.6);
+    width: 30%;
+    margin: 20px auto;
+    box-shadow: 4px 0px 30px white, 4px 0px 10px black;  
+    
+}
+
+
+.open{
+    width: 25%;
+}
+.close{
+    width: 0%;
+}
+
+
+
+@media screen and (max-width: 900px){
+    .calc-container{
+        width: 50%;
+    }
+
+    .open{
+        width: 100%;
+    }
+   
+    .container{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        
+    }
+    .historyContainer{
+        border-right: inset rgba(1,1,1,0.3); 
+        margin: 0;
+        padding:5px;
+        flex-grow: 2;
+        flex-basis:200px;
+    }
+
+}
+@media screen and (max-width: 700px){
+    .calc-container{
+        width: 70%;
+    }
+    .open{
+        width: 100%;
+    }
+    .container{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        
+    }
+    .historyContainer{
+        border-right: inset rgba(1,1,1,0.3); 
+        margin: 0;
+        padding:5px;
+        flex-grow: 2;
+        flex-basis:200px;
+    }
+   
+}
+
+@media screen and (max-width : 500px){
+
+    .calc-container {
+        width: 100%;
+        border: none;
+        box-shadow: none;
+        margin-top: 4px;
+        
+    }
+    .open{
+        width: 100%;
+    }
+    .icon-container{
+        
+        padding: 5px;
+        
+    }
+    .icon-container::after{
+        content: "";
+        clear : both;
+        display: table;
+    }
+    .icon-container .history{
+        
+        
+        margin-right: 0px;    
+        
+    }
+    
+    
+    
+
+}
+
+
+@media screen and (min-width: 900px){
+    .calc-container{
+        width: 40%;
+    }
+}
+
+@media screen and (min-width: 1000px){
+    .calc-container{
+        width: 35%;
+    }
+}
+
+@media screen and (min-width: 1100px){
+    .calc-container{
+        width: 34%;
+    }
+}
+
+@media screen and (min-width : 1200px){
+    .calc-container{
+        width: 30%;
+    }
+}

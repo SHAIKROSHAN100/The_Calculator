@@ -1,0 +1,64 @@
+.display-input{
+   background-color: rgba(0,0,0,0.4);
+   display: flex;
+   justify-content: center;
+   padding: 10px; 
+   
+}
+
+.display-input input{
+   
+    outline: none;
+    border: none;
+    border: 2px solid black;
+    box-sizing: border-box;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    padding-right: 6px;
+    width: 500px;
+    height: 50px;
+
+    font-size : 20px;
+    text-align: right; 
+    
+}
+
+.display-output{
+
+    background-color: rgba(0,0,0,0.4);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+.display-output p{
+    
+    box-sizing: border-box;
+    color: white;
+    padding: 3px;
+    font-size: 26px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    
+    
+
+}
+
+.display-output .para{
+    
+    box-sizing: border-box;
+    color: white;
+    background-color: black;
+    padding: 3px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 26px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    
+    
+
+}

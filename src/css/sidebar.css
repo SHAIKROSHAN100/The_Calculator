@@ -1,0 +1,75 @@
+
+.sidebar{
+
+    
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 0%;
+    height: 100vh;
+    
+    background-color: white;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    overflow-Y: auto;
+    overflow-X : hidden;
+    box-shadow : 0px 0px 20px white, 0px 0px 5px black; 
+    transition: width 1s ease;
+    
+}
+.sidebar::-webkit-scrollbar{
+     width: 5px;   
+}
+.sidebar::-webkit-scrollbar-track{
+    box-shadow: inset 0px 0px 5px black;
+    width: 10px;
+
+}
+.sidebar::-webkit-scrollbar-thumb{
+    background: blue;
+    border-radius: 30px;
+}
+
+.header{
+
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: black;
+}
+.closeMark{
+
+    cursor: pointer;
+    color: dodgerblue;
+    
+}
+.historyText{
+
+    font-size: 20px;  
+    color: dodgerblue;  
+    
+
+}
+
+.trash{
+
+    color: dodgerblue;
+    
+    
+}
+
+
+
+
+.historyContainer{
+
+    margin:0;
+    text-align: center;
+    padding: 5px;
+    border-bottom: inset rgba(1,1,1,0.3); 
+
+    background-color: rgba(245,255,245,1); 
+    
+    cursor: pointer;
+
+}

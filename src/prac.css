@@ -1,0 +1,52 @@
+ .equal{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin-left: 15px;
+    position: absolute;
+}
+
+.plus{
+    
+    position: absolute;
+    /* top:-90px;
+    left: 50%; */
+    /* top:-75px;
+    left:48%;
+
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+} */
+
+/* .mod{
+    position: relative;
+    /* top: -40px;
+    left: 5%; */
+    /* top:-40px;
+    left:8px;
+    border-top-right-radius: 50%;
+}
+.divide{
+    position: relative;
+    /* top: 60px;
+    left: 37%; */
+    top:60px;
+    left:30%;
+    border-bottom-right-radius: 50%;
+} 
+.minus{
+    position: relative;
+    /* top: -40px;
+    left: 18%; */
+    top:-40px;
+    left:22%;
+    border-top-left-radius: 50%;
+}
+.mul{
+    position: relative;
+    /* top: 60px;
+    left: 10%; */
+    top:60px;
+    left: 15%;
+    border-bottom-left-radius: 50%;
+} 
