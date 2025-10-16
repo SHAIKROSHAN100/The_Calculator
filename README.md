@@ -1,12 +1,11 @@
-# React + Vite
+Smart Calculator Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Developed a responsive web-based calculator application using React.js (frontend), PHP (backend), and MySQL (database) to perform and store user calculations efficiently. The project demonstrates seamless frontend-backend integration, data persistence, and real-time computation features with a cean, iterative UI.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Key Features : 
+1. <b>Basic & Advanced Calculations</b> : Supports arithmetic operations (addition, subtraction, multiplication, division) with additional functionality like voice based, history and clear options. 
+2. **Calculation History** : User operations and results are stored in MySQL, allowing users to review past calculations.
+3. **Dynamic UI Updates**: Real-time result rendering using React hooks and state management.
+4. **Backend Integration**: Used PHP APIs to handle computation logic and database communication securely.
+5. **Responsive Design**: Built with React and CSS for compatibility across desktops and mobile devices.
+6. **CRUD Operations**: Implemented basic database interactions to insert, view, and delete calculation records.
