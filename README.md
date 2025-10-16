@@ -34,7 +34,7 @@ The **Smart Calculator Web Application** is a full-stack project developed using
    Say : "remove" for clear <br>
    Say : "remove all" for all clear <br>
    Say : "result" to store the result of the calculation <br>
-6. For typing purposes in pc click on the black box on the top. For multiplication use 'x' letter.<br>
+6. For typing purposes in pc click on the black box on the top. To Perform multiplication use 'x' letter.<br>
    
    
 
