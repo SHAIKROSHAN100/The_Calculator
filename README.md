@@ -23,6 +23,23 @@ Outcome/Impact:
 2. Strengthened **API integration** and **database connectivity** skills.
 3. Improved application security and performance through **optimized PHP queries.**
 
+**How to use the Smart Calculator Web Application**
+1. Download the files.
+2. Install the required libraries.
+3. Keep the calcapi.php and database.php in the folder and place them in the php environment.
+4. Run the App.js file with npm run dev.
+5. To use your voice for the calculation :
+   Enable the feature by clicking on the microphone icon, and
+   use the commands :
+   Say : numbers
+   Say : "plus" for + sign , "minus" for - sign, "into" for "*", "divide" for "/"
+   Say : "remove" for clear
+   Say : "remove all" for all clear
+   Say : "result" to store the result of the calculation
+6. For typing purposes in pc : click on the black box on the top. For multiplication use 'x' letter.
+   
+   
+
 <img width="1361" height="734" alt="Screenshot from 2025-10-15 14-21-23" src="https://github.com/user-attachments/assets/92ac1c70-d606-4aa8-b54c-2a1e434d1075" />
 
 <img width="1361" height="734" alt="Screenshot from 2025-10-15 14-21-52" src="https://github.com/user-attachments/assets/e13ccc78-13c3-4364-bd7f-1f7a7ad417df" />
