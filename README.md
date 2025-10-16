@@ -26,7 +26,7 @@ Outcome/Impact:
 **How to use the Smart Calculator Web Application**
 1. Download the files.
 2. Install the required libraries.
-3. Keep the calcapi.php and database.php in the folder and place them in the php environment.
+3. Keep the calcapi.php and database.php in the folder and place them in the php environment. Modify the mysql databases and connect it with php.
 4. Run the App.js file with npm run dev.
 5. To use your voice for the calculation :
    Enable the feature by clicking on the microphone icon, and
